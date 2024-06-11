@@ -73,7 +73,6 @@ const Login = () => {
           </View>
         </ScrollView>
       </KeyboardAvoidingView>
-
     </SafeAreaView>
   )
 }
