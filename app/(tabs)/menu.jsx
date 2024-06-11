@@ -3,7 +3,7 @@ import React from 'react'
 
 const Menu = () => {
   return (
-    <View>
+    <View className="h-full justify-center items-center">
       <Text>Menu</Text>
     </View>
   )

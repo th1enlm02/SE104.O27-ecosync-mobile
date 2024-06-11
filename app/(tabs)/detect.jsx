@@ -3,7 +3,7 @@ import React from 'react'
 
 const Detect = () => {
   return (
-    <View>
+    <View className="h-full justify-center items-center">
       <Text>Detect</Text>
     </View>
   )
