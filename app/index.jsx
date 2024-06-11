@@ -8,7 +8,8 @@ export default function App() {
             <CustomButton
                 title="Click to continue"
                 handlePress={() => router.push("/register")}
-                containerStyles="w-full"
+                textStyles="text-[#1A4301] text-lg"
+                containerStyles="w-full bg-[#73A942]"
             />
         </SafeAreaView>
     );
